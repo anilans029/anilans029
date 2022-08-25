@@ -1,12 +1,14 @@
 <h1 align="center">Hello folks 👋, I'm Anil</h1>
 <h3 align="center">A passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection, model training, deployment and model monitoring.</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*tBpl-eS41qcfLe1a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilans029&label=Profile%20views&color=0e75b6&style=flat" alt="anilans029" /> </p>
 
 - 🔭 I’m currently working on **back order prediction**
 
 - 🌱 I’m currently learning **computer vision and different architectures**
-
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
 - 📫 How to reach me **anilsai029@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
